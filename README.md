@@ -2,7 +2,8 @@
 
 GTM Engineer. I build customer acquisition systems in code and run them in production.
 
-I build with AI coding agents (Claude Code) in Node.js and SQL, and I own the design, the rules and what goes to production. Most of my work lives in private repositories because it runs on real client data; this profile shows the activity and a few clean extracts.
+I build with AI coding agents (Claude Code) in Node.js and SQL, and I own the design, the rules and what goes to production. 
+Most of my work lives in private repositories because it runs on real client data; this profile shows the activity and a few clean extracts.
 
 ## What I build
 
